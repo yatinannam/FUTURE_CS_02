@@ -1,4 +1,4 @@
-# 🛡️ Splunk SIEM Log Analysis & Incident Response
+# 🛡️ Security Alert Monitoring & Incident Response
 
 This project was developed as **Task 2** of the **Future Interns Cybersecurity Internship Program**.  
 It involved using **Splunk SIEM** to monitor simulated web access logs, identify suspicious activity, classify potential incidents, and document a complete **incident response report**.
